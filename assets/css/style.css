@@ -1,0 +1,36 @@
+@charset "utf-8";
+@import url("bootstrap/bootstrap.css");
+@import url("bootstrap/bootstrap-theme.css");
+/* CSS Document */
+
+body{
+	background:#f7fdff url(../img/bg.jpg) no-repeat center bottom;
+}
+
+.container{
+	max-width:980px;
+}
+
+#banner{
+	background:#daf4fc url(../img/banner.png) no-repeat;
+	width:980px;
+	min-height:437px;
+	margin-top:30px;
+	border-radius:10px;
+}
+
+#top{
+	margin-top:20px;
+}
+
+#top div{
+	padding:0;	
+}
+
+#logo{
+	margin-left:-25px;
+}
+
+.bannerImg{
+	background:url(../img/bannerImg.png) no-repeat;
+	width:
